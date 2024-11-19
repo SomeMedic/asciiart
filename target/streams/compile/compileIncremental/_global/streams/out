@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 31 products, 13 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/loader/ImageLoader.scala, ${BASE}/src/main/scala/filter/FlipHorizontalFilter.scala, ${BASE}/src/main/scala/converter/ImageConverter.scala, ${BASE}/src/main/scala/Main.scala, ${BASE}/src/main/scala/loader/PngLoader.scala, ${BASE}/src/main/scala/loader/ImageError.scala, ${BASE}/src/main/scala/model/Image.scala, ${BASE}/src/main/scala/filter/InvertFilter.scala, ${BASE}/src/main/scala/filter/RotateFilter.scala, ${BASE}/src/main/scala/filter/FlipVerticalFilter.scala, ${BASE}/src/main/scala/filter/ImageFilter.scala, ${BASE}/src/main/scala/loader/JpgLoader.scala, ${BASE}/src/main/scala/converter/AsciiTable.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
